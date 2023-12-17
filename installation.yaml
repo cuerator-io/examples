@@ -1,0 +1,7 @@
+apiVersion: cuerator.io/v1alpha1
+kind: Installation
+metadata:
+  name: example
+spec:
+  image: ghcr.io/cuerator-io/examples
+  versionConstraint: ^0

@@ -1,2 +1,1 @@
-# examples
-Example Cuerator collections.
+# Examples Collections
